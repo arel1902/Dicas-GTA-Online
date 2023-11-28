@@ -1,0 +1,7 @@
+.principal {
+    imagensgtaonline-image: url("img/imagensgtaonline-image.png");
+    imagensgtaonline-repeat: no-repeat;
+    imagensgtaonline-size: contain;
+    align-items: center;
+    text-align: center;
+}
