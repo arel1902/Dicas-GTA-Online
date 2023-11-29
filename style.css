@@ -3,5 +3,5 @@ body {
 } 
 
 img { 
-    image-rendering: crisp-edges; /* Melhora a nitidez em imagens redimensionadas */
+    image-rendering: crisp-edges;
 }
