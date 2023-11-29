@@ -1,0 +1,11 @@
+body {
+    background-color: #f0f0f0; /* Cor sólida em hexadecimal */
+    /* Ou */
+    /* background-color: rgb(240, 240, 240); / / Cor sólida em RGB */
+    /* Ou */
+    /* background-color: hsl(0, 0%, 94%); / / Cor sólida em HSL */
+} 
+
+img {
+    image-rendering: crisp-edges; /* Melhora a nitidez em imagens redimensionadas */
+}
