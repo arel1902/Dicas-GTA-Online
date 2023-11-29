@@ -1,7 +1,7 @@
-body {
-    background-color: #1f1c1c; 
-} 
-
-img { 
-    image-rendering: crisp-edges;
+.principal {
+    background-image: url("IMG/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    text-align: center;
 }
