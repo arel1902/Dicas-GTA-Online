@@ -1,14 +1,35 @@
-.principal {
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
     background-image: url("IMG/fundo.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position:0% ;
-    align-items: center;
+    background-size: cover; /* Utilizando 'cover' para cobrir todo o corpo */
+    background-position: right center;
+}
+
+.header {
+    background-color: #333;
+    padding: 10px;
+    color: white;
     text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.header img {
+    width: 100px; /* Ajuste a largura conforme necessário */
+    height: auto; /* Mantém a proporção da imagem */
+    float: right;
 }
 
 .container {
-    height: 100vh;
-    display: grid;
-    grid-template-columns: 50%;
+    padding: 20px;
+    margin-top: 60px; /* Ajuste conforme necessário para evitar sobreposição com o cabeçalho */
+    text-align: center; /* Centraliza o conteúdo no contêiner */
+}
+
+/* Estilo opcional para adicionar sombra ao cabeçalho quando é fixo */
+.header.sticky {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
