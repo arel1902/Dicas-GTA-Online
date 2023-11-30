@@ -12,10 +12,15 @@ body{
 
 header{
     background-image: url(IMG/fundo.jpg);
+
     background-size: cover;
+
     background-position: center;
+
     color: white;
+
     text-align: center;
+    
     padding: 50px;
 }
 
