@@ -1,34 +1,14 @@
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
+.principal {
     background-image: url("IMG/fundo.jpg");
-    background-size: cover;
-    background-position: right center;
-}
-
-.header {
-    background-color: #333;
-    padding: 10px;
-    color: white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background: position 20px; 
+    align-items: center;
     text-align: center;
-    position: fixed;
-    width: 100%;
-    top: 0;
-    z-index: 1000;
-}
-
-.header img {
-    width: 100px;
-    height: auto;
-    float: right;
 }
 
 .container {
-    padding: 20px;
-    margin-top: 60px;
-    text-align: center;
-}
-
-css.header.sticky {
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50%;
 }
