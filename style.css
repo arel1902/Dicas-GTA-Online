@@ -2,7 +2,7 @@
     background-image: url("IMG/fundo.jpg");
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: right center;
+    background-position: right center; /* Adicione esta linha para centralizar à direita */
     align-items: center;
     text-align: center;
 }
