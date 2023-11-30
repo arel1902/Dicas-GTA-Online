@@ -2,7 +2,8 @@
     background-image: url("IMG/fundo.jpg");
     background-repeat: no-repeat;
     background-size: contain;
-    background-position -y; 20%
+    background-position
+; 20%
     align-items: center;
     text-align: center;
 }
