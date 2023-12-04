@@ -1,6 +1,7 @@
-body,h1,h2,p,ul,li{
+body,html{
     margin: 0;
-padding: 0;
+    padding: 0;
+    height: 100%;
 }
 
 body{
@@ -13,9 +14,10 @@ body{
 header{
     background-image: url(IMG/fundo.jpg);
 
-    background-size: cover;
+    background-size: 75%;
+    background-repeat: no-repeat;
 
-    background-position: center;
+    background-position: left top;
 
     color: rgba(21, 19, 19, 1);
 
