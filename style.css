@@ -13,7 +13,7 @@ body {
 
 header {
     background-image: url(IMG/fundo.jpg);
-    background-size: center center;
+    background-size: center;
     background-repeat: no-repeat;
     background: position 100%;;
     color: rgba(21, 19, 19, 1);
