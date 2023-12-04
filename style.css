@@ -21,7 +21,7 @@ body {
         line-height: 1.6;
     }
 nav {
-    background-color: #444;
+    background-color: #ffffff;
     padding: 10px;
 }
 
@@ -32,11 +32,11 @@ nav ul {
 }
 
 nav a:hover {
-    background-color: #555;
+    background-color: #ffffff;
 }
 
 footer {
-    background-color: #333;
+    background-color: #fffafa;
     color: rgb(7, 6, 6);
     text-align: center;
     padding: 10px;
