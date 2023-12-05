@@ -39,15 +39,6 @@ footer {
     width: 100%;
     bottom: 0;
 
-footer {
-
- contain-intrinsic-inline-size:
-
-    align  90px;
-    height: 10px;
-    width: 20px;
-    border: 2px, solid;
-    margin: 50px;
-    padding: 2%;
-
-}
+body { background-image: url(IMG/mapa.png);
+background-size: auto;
+background-position: right;}
