@@ -40,7 +40,7 @@ footer {
     bottom: 0;
 }
 .Mapa {
-    align:right;
+    align-items:right;
     height: 10%;
     width: 20%;
     border:2px, solid;
