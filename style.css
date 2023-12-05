@@ -38,12 +38,16 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
-}
-IMG/mapa.png {
+
+footer{
+
+<mapa class = png> 
+
     align-items: 90px;
     height: 10px;
     width: 20px;
     border: 2px, solid;
     margin: 50px;
     padding: 2%;
-}
+
+ }
