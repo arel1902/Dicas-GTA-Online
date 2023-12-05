@@ -33,7 +33,7 @@ nav a:hover {
 footer {
     background-color: #000000;
     color: rgb(255, 255, 255);
-    text-align: right;
+    text-align: center;
     padding: 10px;
     position: fixed;
     width: 100%;
@@ -44,4 +44,5 @@ body {
     background-size: 20%;
     background-position: right;
     line-height: normal;
+    object-position: 50px;
 } 
