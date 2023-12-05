@@ -40,7 +40,7 @@ footer {
     bottom: 0;
 }
 mapa {
-    align: items 90px;;
+    align-items:90px;
     height: 10px;
     width: 20px;
     border:2px, solid;
