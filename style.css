@@ -13,13 +13,7 @@ body {
     color: rgba(255, 255, 255, 0.982);
     line-height: 1.6;
 }
-body{
-    font-family: 'Arial', sans-serif;
-    background-image: url(IMG/mapa.png);
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position:
-}
+
 
 nav {
     background-color: #ff0000;
