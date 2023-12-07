@@ -39,11 +39,4 @@ footer {
     width: 100%;
     bottom: 0;
 }
-mapa {
-    align-self: right;
-    height: 10%;
-    width: 20%;
-    border: solid;
-    margin: 50px;
-    padding: 2em;
-}
+
