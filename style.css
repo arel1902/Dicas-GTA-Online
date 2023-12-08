@@ -40,12 +40,4 @@ footer {
     bottom: 0;
 }
 
-body {
-    font-family: 'Arial', sans-serif;
-    background-image: url(IMG/fundo.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    color: rgba(255, 255, 255, 0.982);
-    line-height: 1.6;
-}
+
