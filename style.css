@@ -30,6 +30,9 @@ nav a:hover {
     background-color: #000000;
 }
 
+.right-align{
+    width: auto;
+}
 footer {
     background-color: #000000;
     color: rgb(255, 255, 255);
@@ -39,5 +42,6 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
 
