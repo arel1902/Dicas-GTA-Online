@@ -34,6 +34,10 @@ nav a:hover {
     width: 30%;
     margin-left: 15% ;
 }
+.itens{
+    margin-right: 10%;
+    list-style: none;
+}
 footer {
     background-color: #000000;
     color: rgb(255, 255, 255);
